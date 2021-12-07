@@ -3,7 +3,7 @@
 I’m a web application developer based in Waregem, Belgium ...
 I'm building software using the Laravel ecosystem and want to give some open source tools and want to provide you some tips and tricks. I hope you will learn some cool stuff !
 
-I love  🏃   ✍  👨‍💻  👨‍👩‍👧‍👦 
+I love  🏃   ✍  👨‍💻  👨‍👩‍👧‍👦  🎣
 
 I'm a programmer, runner, blogger husband and dad ... 
 
