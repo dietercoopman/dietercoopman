@@ -1,7 +1,7 @@
 ### Hi there I'm Dieter 👋
 
 I’m a web application developer based in Waregem, Belgium ...
-I'm building software using the Laravel ecosystem and want to give some open source tools and want to provide you some tips and tricks. I hope you will learn some cool stuff !
+I'm building software using the Laravel ecosystem and want to give some open source tools back to the open source community. I also want to provide you some tips and tricks. I hope you will learn some cool stuff !
 
 I love  🏃   ✍  👨‍💻  👨‍👩‍👧‍👦  🎣
 
