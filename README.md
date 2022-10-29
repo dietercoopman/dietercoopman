@@ -9,12 +9,10 @@ I'm a programmer, runner, blogger husband and dad ...
 
 ### Some of my realisations
 
-🖥  My website: www.dietse.dev
+🖥  My website: www.lloadout.com
 
 🐦  My twitter: https://twitter.com/dietsedev
  
 👨‍💼  My business: www.deltasolutions.be
-
-🤓  LLoadout: www.lloadout.com
 
 📹  My youtube channel: https://www.youtube.com/channel/UCrpW7SOYrSd_gkAH7nVyzRQ
